@@ -8,5 +8,5 @@ url='https://github.com/srijan-stack/basepkg',
 description="this is a basic calculator",
 long_description="use this to calculate",
 author="srijan",
-packages=["basepkg"],
+packages=["src"],
 install_requires=[])
