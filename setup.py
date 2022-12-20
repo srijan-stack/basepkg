@@ -1,3 +1,6 @@
+import sys
+import os
+
 from setuptools import setup
 setup(name="basepkg",
 version="0.1",
